@@ -4,7 +4,7 @@ Thank you to the researchers who privately report security issues and help keep 
 
 | Reported | Researcher | Finding | Fix |
 | --- | --- | --- | --- |
-| 2026-09-27 | kta1kri | Unsafe deployment defaults and local-file access through remote content templates | [Antfly fix](https://github.com/antflydb/antfly/pull/897) · [v0.2.x backport](https://github.com/antflydb/antfly/pull/898) |
+| 2026-09-27 | [kta1kri](https://github.com/kta1kri) | Unsafe deployment defaults and local-file access through remote content templates | [Antfly fix](https://github.com/antflydb/antfly/pull/897) · [v0.2.x backport](https://github.com/antflydb/antfly/pull/898) |
 
 ## Report a security issue
 
